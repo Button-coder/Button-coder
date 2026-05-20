@@ -17,7 +17,7 @@
 ## 🧠 About Me
 
 ```yaml
-name:      "[Batın Softa]"
+name:      "Batın Softa"
 location:  "Turkey 🇹🇷"
 role:      "Full Stack Developer (Student)"
 focus:     ["Web Development", "Backend Systems", "Clean Code"]
@@ -54,14 +54,14 @@ fun_fact:  "I debug by explaining problems to rubber ducks 🦆"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Button-coder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Button-coder&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Button-coder&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -76,21 +76,10 @@ fun_fact:  "I debug by explaining problems to rubber ducks 🦆"
 
 ---
 
-## 📬 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6366f1&style=for-the-badge&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=Button-coder&color=6366f1&style=for-the-badge&label=Profile+Views)
 
 *"First, solve the problem. Then, write the code." – John Johnson*
 
