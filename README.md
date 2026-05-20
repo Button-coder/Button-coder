@@ -17,7 +17,7 @@
 ## 🧠 About Me
 
 ```yaml
-name:      "[Your Name]"
+name:      "[Batın Softa]"
 location:  "Turkey 🇹🇷"
 role:      "Full Stack Developer (Student)"
 focus:     ["Web Development", "Backend Systems", "Clean Code"]
