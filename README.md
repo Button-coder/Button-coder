@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+%5BButton+coder%5D+%F0%9F%91%8B;Full+Stack+Developer;Always+learning%2C+always+building.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Your+Name+%F0%9F%91%8B;Full+Stack+Developer;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 <br/>
 
 <!-- Status badges -->
